@@ -1,30 +1,21 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
+name: kit#1396 (discord)
+about: errors
 labels: bug
-assignees: ''
+assignees:
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+hello! i have a bug problem where i cant go to passive, i want to turn it on but i cant it says you need to eait 24 hours, after i waited a day i tey to run the command buy fail, it says im on passive but when i check
+settings im still not on passive, amd i still can interact with other players, what should i do?
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
-
+A can you fix this bug?
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
-
+i dont have screenshots because im opening it from discord (im on mobile and i have an android) 
 **Your User ID**
-[Get your user id](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) and add it here if needed
+kit#1396
 
 **Additional context**
-Add any other context about the problem here.
+what should i do with the bug? 
